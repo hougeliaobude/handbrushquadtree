@@ -4,7 +4,7 @@ let gridWidth = 5;
 let gridHeight = 10;
 let isDragging = false;
 let mouseTrail = [];
-const MAX_DEPTH = 10;
+const MAX_DEPTH = 11;
 let influenceRadius = 100;
 let lastMousePos;
 let lastMouseVelocity;
